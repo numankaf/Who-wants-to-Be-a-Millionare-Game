@@ -1,0 +1,38 @@
+fileFormatVersion: 2
+guid: ed1737b5a99f79148a126e56be5091cb
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Metropolis
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 11eab8467b0d6dc4988f1e70d84edc5c, type: 3}
+  - {fileID: 12800000, guid: 418156734fce9c14d9e7031f1e80e744, type: 3}
+  - {fileID: 12800000, guid: 9cf98009d69a0d145bce2cf25a8ca731, type: 3}
+  - {fileID: 12800000, guid: 46c828d4269d7d64581ba290dee34ef5, type: 3}
+  - {fileID: 12800000, guid: 8661d389e49432645aa98bf1e99bd0c2, type: 3}
+  - {fileID: 12800000, guid: 171706106fc51b54aab67efc71cbc6a3, type: 3}
+  - {fileID: 12800000, guid: 08863a601d56e3b44b5a60e4704d8aa4, type: 3}
+  - {fileID: 12800000, guid: bbc94998a5d414d4e8d1465722d110b2, type: 3}
+  - {fileID: 12800000, guid: 12850b4a20aa5fd468c47f7a54033db9, type: 3}
+  - {fileID: 12800000, guid: 95169bc219668524192980cde37803ce, type: 3}
+  - {fileID: 12800000, guid: 05bca4e460a0be44996e17aea80ce18a, type: 3}
+  - {fileID: 12800000, guid: 164dba877717fd44d9dd05865b458351, type: 3}
+  - {fileID: 12800000, guid: 1a7e313e3ae4ebc4c9374b2e11727bf3, type: 3}
+  - {fileID: 12800000, guid: 4bfbfad4512f97b418845e2332fb261d, type: 3}
+  - {fileID: 12800000, guid: 341ebdf807fee86419fe80fdc7c8bdaa, type: 3}
+  - {fileID: 12800000, guid: a1a64bb7691d87f41bdc288166e772ff, type: 3}
+  - {fileID: 12800000, guid: a7effec501231bd41bbcf05cd99cd2bb, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

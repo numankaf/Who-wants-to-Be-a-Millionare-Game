@@ -1,0 +1,304 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c33bb79291182044ba28e412eeb88952, type: 3}
+  m_Name: tier1
+  m_EditorClassIdentifier: 
+  questions:
+  - question: "Kurtlar Vadisi \xC7ak\u0131r ka\xE7\u0131nc\u0131 b\xF6l\xFCmde \xF6lm\xFC\u015Ft\xFCr?"
+    answers:
+    - 43
+    - 45
+    - 47
+    - 49
+    correctAnswer: 1
+  - question: "Clahs royale de en orosbu \xE7ocu karakter kimdir?"
+    answers:
+    - Ahmet kaya
+    - Elektro dev
+    - "Ko\xE7ba\u015F\u0131"
+    - "DomuzBinici+\xF6fke"
+    correctAnswer: 1
+  - question: "Mali bulu\u015Fmaya \xE7a\u011F\u0131rd\u0131\u011F\u0131nda ne cevap
+      verir?"
+    answers:
+    - "me\u015Fgulum garda\u015F"
+    - "g\xFClhane t\u0131p \xE7ok zor"
+    - "garda\u015F komitem var"
+    - "ay\u0131p ediyon garda\u015F"
+    correctAnswer: 2
+  - question: "\"Gumball\" \xC7izgi Filminde Yer Alan Bay Robinson'un esinin ismi
+      nedir ?"
+    answers:
+    - Margaret Robinson
+    - Eva Robinson
+    - Suzan Robinson
+    - Sophia Robinson
+    correctAnswer: 0
+  - question: "2009-2010 sezonunda Super Lig \u015Fampiyonu olan Bursaspor'un \u015Fampiyonlu\u011Funu
+      ,kendi \u015Fampyionlu\u011Fu gibi kutlayan taraftar\u0131n tak\u0131m\u0131
+      hangisidir?"
+    answers:
+    - Galatasaray
+    - "Fenerbah\xE7e"
+    - "Be\u015Fikta\u015F"
+    - Trabzonspor
+    correctAnswer: 1
+  - question: "G\xF6kku\u015Fa\u011F\u0131n\u0131n ortas\u0131ndaki renk nedir?"
+    answers:
+    - "K\u0131rm\u0131z\u0131"
+    - "Ye\u015Fil"
+    - Mavi
+    - Mor
+    correctAnswer: 1
+  - question: "PS3'\xFCn T\xFCrkiye \xE7\u0131k\u0131\u015F fiyat\u0131 nedir?"
+    answers:
+    - 700
+    - 800
+    - 770
+    - 730
+    correctAnswer: 3
+  - question: "A\u015Fa\u011F\u0131daki oyunlar\u0131n hangisinde top yoktur?"
+    answers:
+    - Futbol
+    - Kriket
+    - Korling
+    - Badminton
+    correctAnswer: 2
+  - question: "Regular Show \xE7izgi dizisindeki \"Annem!\" \u015Fakas\u0131 kime
+      aittir?"
+    answers:
+    - Kas Adam
+    - Mordecai
+    - Benson
+    - Rigby
+    correctAnswer: 0
+  - question: "A\u015Fa\u011F\u0131daki mekanlardan hangisi y\xFCz\xFCklerin efendisi
+      filminde yoktur?"
+    answers:
+    - Mordor
+    - Westeros
+    - Rohan
+    - Gondor
+    correctAnswer: 1
+  - question: "2010 -2011 sezonunda Alex De Souza toplam ka\xE7 gole katk\u0131 sa\u011Flam\u0131\u015Ft\u0131r?"
+    answers:
+    - 40
+    - 44
+    - 31
+    - 38
+    correctAnswer: 1
+  - question: "Kylian Mbapp\xE9 ka\xE7 ya\u015F\u0131ndad\u0131r?"
+    answers:
+    - 21
+    - 22
+    - 23
+    - 20
+    correctAnswer: 2
+  - question: "Regular Show Dizisinde Mordecai ve Rigby s\u0131ras\u0131yla hangi
+      hayvanlard\u0131r?"
+    answers:
+    - "Ku\u015F ile kurba\u011Fa"
+    - "kedi ile bal\u0131k"
+    - karga ile rakun
+    - maymun ile goril
+    correctAnswer: 2
+  - question: "Kuran'a s\xF6ven Youtuber kimdir?"
+    answers:
+    - TTO
+    - EnesBatur
+    - Turgut Ekin
+    - Murat Abi GF
+    correctAnswer: 0
+  - question: "2012-2013 sezonu UEFA avrupa ligi final ilk ma\xE7\u0131nda Benfica'
+      ya kar\u015F\u0131 penalt\u0131 ka\xE7\u0131ran Fenerbah\xE7eli futbolcu kimdir?"
+    answers:
+    - Alex de souza
+    - Roberto carlos
+    - cristian baroni
+    - Ahmet Kaya
+    correctAnswer: 2
+  - question: "Y\xFCz\xFCklerin efendisi \xFC\xE7lemesinde a\u015Fa\u011F\u0131daki
+      t\xFCrlerden hangisi Gollum'un y\xFCz\xFC\u011F\xFC bulmadan \xF6nceki halidir?"
+    answers:
+    - Hobbit
+    - Elf
+    - "\u0130nsan"
+    - Ork
+    correctAnswer: 0
+  - question: "A\u015Fk-\u0131 mennu ka\xE7 b\xF6l\xFCm s\xFCrm\xFC\u015Ft\xFCr?"
+    answers:
+    - 77
+    - 79
+    - 81
+    - 83
+    correctAnswer: 1
+  - question: "Akasya Dura\u011F\u0131 dizisinde Sinan Kaya ka\xE7 defa ka\xE7\u0131r\u0131lm\u0131\u015Ft\u0131r?"
+    answers:
+    - 42
+    - 52
+    - 62
+    - 72
+    correctAnswer: 2
+  - question: "Cennet Mahallesi'nde Ferhat ile Sultan ka\xE7\u0131nc\u0131 b\xF6l\xFCmde
+      evlenmi\u015Flerdir?"
+    answers:
+    - 87
+    - 95
+    - 100
+    - 111
+    correctAnswer: 2
+  - question: "Hangisi evrendeki en b\xFCy\xFCk kara deliktir?"
+    answers:
+    - "malinin g\xF6t deli\u011Fi"
+    - "clash royale de binici+\xF6fke kullananlar\u0131n beyin bo\u015Flu\u011Fu"
+    - "Teemonun kanserlik oran\u0131"
+    - OJ 287
+    correctAnswer: 3
+  - question: "Manga m\xFCzik grubunun maskot canavar\u0131n\u0131n ad\u0131 nedir?"
+    answers:
+    - Vna
+    - Spa
+    - Hugo
+    - Mna
+    correctAnswer: 1
+  - question: "\u0130stanbul Bo\u011Faz\u0131 hangi \u015Fehrimizdedir?"
+    answers:
+    - Ankara
+    - Yozgat
+    - "\u0130stanbul"
+    - Bursa
+    correctAnswer: 2
+  - question: "Thor'un \xE7ekicinin ad\u0131 nedir?"
+    answers:
+    - Mjollnir
+    - Darkseid
+    - hammerson
+    - Alhpaspark
+    correctAnswer: 0
+  - question: "Cennet mahallesi Beter ali'nin ger\xE7ek mesle\u011Fi sonradan ne 
+      \xE7\u0131km\u0131\u015Ft\u0131r?"
+    answers:
+    - "\xD6\u011Fretmen"
+    - "Y\xF6netmen"
+    - Yazar
+    - "\u015Eair"
+    correctAnswer: 2
+  - question: "GTA:San Andreas 'da turuncu \xE7etenin ad\u0131 nedir?"
+    answers:
+    - Vagos
+    - Ballas
+    - Da Nang Boys
+    - The Mafia
+    correctAnswer: 2
+  - question: "Hangi meyvenin \"Va\u015Fington\" ad\u0131yla sat\u0131lan bir \xE7e\u015Fidi
+      vard\u0131r?"
+    answers:
+    - Nar
+    - Elma
+    - Portakal
+    - Ananas
+    correctAnswer: 2
+  - question: "Hangisi bir Osmanl\u0131 Padi\u015Fah\u0131 De\u011Fildir?"
+    answers:
+    - Fatih Sultan Mehmet
+    - Yavuz Sultan Selim
+    - 2. Murat
+    - "Recep Tayyip Erdo\u011Fan"
+    correctAnswer: 3
+  - question: GTA oyun serisi hangi firmaya aittir?
+    answers:
+    - Rockstar
+    - Ubisoft
+    - Crytek
+    - EA Play
+    correctAnswer: 0
+  - question: "League of Legends evreninde hangi b\xF6lgede b\xFCy\xFCden nefret
+      edilmektedir?"
+    answers:
+    - Demacia
+    - Noxus
+    - Shurima
+    - Ionia
+    correctAnswer: 0
+  - question: "Hangisi Assasins Creed 4:Black Flag oyununun ba\u015F karakteridir?"
+    answers:
+    - Arno Dorian
+    - Ezio Auditorie
+    - Edward Kenway
+    - Altair Ibn la Ahad
+    correctAnswer: 2
+  - question: "Game of Thrones'da  toplam  ka\xE7 tane ejderha vard\u0131r?"
+    answers:
+    - 15
+    - 16
+    - 17
+    - 19
+    correctAnswer: 2
+  - question: "How I met Your Mother ka\xE7 sezon s\xFCrm\xFC\u015Ft\xFCr?"
+    answers:
+    - 10
+    - 6
+    - 8
+    - 9
+    correctAnswer: 3
+  - question: En iyi Spiderman kimdir?
+    answers:
+    - Andrew Garfield
+    - Tom Holland
+    - Tobey Maguire
+    - Hepsi
+    correctAnswer: 0
+  - question: "Riven'\u0131n en k\xF6t\xFC kost\xFCm\xFC hangisidir?"
+    answers:
+    - "Sava\u015F Tav\u015Fan\u0131 Riven"
+    - "Ejderk\u0131l\u0131\xE7 Riven"
+    - Arcade Riven
+    - "K\u0131z\u0131l Elit Riven"
+    correctAnswer: 3
+  - question: "Midlanenizde Numan oynuyorsa ve siz jungle oynuyorsan\u0131z oyunda
+      ne yapman\u0131z gerekir?"
+    answers:
+    - "midlane e oyna ve numan\u0131n ta\u015F\u0131mas\u0131n\u0131 bekle"
+    - "Toplane e oyna ve Bedo ile beraber \xF6l"
+    - "Botlane e oyna ve ak\u0131l sa\u011Fl\u0131\u011F\u0131n\u0131 kaybet"
+    - "Sadece jungle d\xF6n"
+    correctAnswer: 0
+  - question: "Rahmi a\u015Fa\u011F\u0131daki okul g\xF6revlilerinden hangisini kafes
+      d\xF6v\xFC\u015F\xFCne \xE7a\u011F\u0131rm\u0131\u015Ft\u0131r?"
+    answers:
+    - "Mehmet Ta\u015Fkesti"
+    - "Mehmet K\u0131l\u0131n\xE7er"
+    - "Selvet G\xFCrda\u011F"
+    - Sercan Hoca
+    correctAnswer: 0
+  - question: "\xD6nemli olan hangisi?"
+    answers:
+    - Tyt
+    - Ayt
+    - ikiside
+    - "\u0130kiside de\u011Fil dil en iyisi"
+    correctAnswer: 1
+  - question: "\xDCnl\xFC oyun serisi Mafia ka\xE7 toplam ka\xE7 oyundan olu\u015Fmaktad\u0131r?"
+    answers:
+    - 2
+    - 3
+    - 4
+    - 1
+    correctAnswer: 1
+  - question: "God Of War oyununda Kratos adl\u0131 ana karakterin babas\u0131 oyuna
+      g\xF6re kimdir?"
+    answers:
+    - Ares
+    - Hades
+    - Zeus
+    - Posedion
+    correctAnswer: 2

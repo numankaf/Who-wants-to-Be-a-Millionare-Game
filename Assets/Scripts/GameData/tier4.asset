@@ -1,0 +1,249 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c33bb79291182044ba28e412eeb88952, type: 3}
+  m_Name: tier4
+  m_EditorClassIdentifier: 
+  questions:
+  - question: "\"Tar\u0131m\"la e\u015F anlaml\u0131 olan hangisidir?"
+    answers:
+    - Bilim
+    - Felsefe
+    - "K\xFClt\xFCr"
+    - Sanat
+    correctAnswer: 2
+  - question: "\u0130kiz karde\u015F olan \u015Eota ve Ar\xE7il adl\u0131 G\xFCrc\xFC
+      milli futbolcular, T\xFCrkiye'de hangi tak\u0131m\u0131n formas\u0131n\u0131
+      giymi\u015Ftir?"
+    answers:
+    - Galatasaray
+    - Trabzonspor
+    - "Be\u015Fikta\u015F"
+    - "Fenerbah\xE7e"
+    correctAnswer: 1
+  - question: "\"Bostan\" kelimesinin Fars\xE7a'daki k\xF6keninin anlam\u0131 nedir?"
+    answers:
+    - "G\xFCzel koku"
+    - "Ye\u015Fil vadi"
+    - "Yumu\u015Fak toprak"
+    - "Ac\u0131 patl\u0131can"
+    correctAnswer: 0
+  - question: "Kalahari, Atakama, Gobi ve Taklamakan hangi co\u011Frafi olu\u015Fuma
+      \xF6rneklerdir?"
+    answers:
+    - "S\u0131rada\u011F "
+    - "\xC7\xF6l "
+    - "\u015Eelale "
+    - "Volkanik g\xF6l"
+    correctAnswer: 1
+  - question: "Hangisi 22 sezondur yay\u0131mlanmakta olan \"South Park\" adl\u0131
+      dizinin ba\u015Fkarekterinden biri de\u011Fildir?"
+    answers:
+    - Eric Cartman
+    - Stan Marsh
+    - Kyle Broflovski
+    - BoJack Horseman
+    correctAnswer: 3
+  - question: "Yumruk att\u0131\u011F\u0131 k\xF6t\xFC adamlar\u0131n y\xFCz\xFCnde
+      kurukafa izi b\u0131rakan \xE7izgi roman kahraman\u0131 hangisidir?"
+    answers:
+    - 'Zorro '
+    - Zagor
+    - "\xD6r\xFCmcekAdam"
+    - "K\u0131z\u0131lMaske"
+    correctAnswer: 3
+  - question: "Zeki M\xFCren'in \"Biraz Fernandel, biraz Belmondo\" diye tan\u0131mlad\u0131\u011F\u0131
+      ki\u015Fi hangisidir?"
+    answers:
+    - " C\xFCneyt Ark\u0131n"
+    - "\u015Eener \u015Een"
+    - ' Kemal Sunal'
+    - "Tar\u0131k Akan"
+    correctAnswer: 2
+  - question: "Patates cipsi paketleri, i\xE7inde cipslerin taze kalmas\u0131 i\xE7in
+      genellikle hangi gazla doldurulur?"
+    answers:
+    - 'Oksijen '
+    - 'Hidrojen '
+    - 'Helyum '
+    - Azot
+    correctAnswer: 3
+  - question: "Tarih boyunca \u0130ngiltere taht\u0131na hangi adda bir kral \xE7\u0131kmam\u0131\u015Ft\u0131r?"
+    answers:
+    - 'Arthur '
+    - 'Richard '
+    - Henry
+    - George
+    correctAnswer: 0
+  - question: "A\u015Fa\u011F\u0131daki futbolculardan hangisi efsane Milan kadrosunda
+      yer almaz?"
+    answers:
+    - Maldini
+    - Pirlo
+    - Gattuso
+    - Getto
+    correctAnswer: 3
+  - question: "Hitler ka\xE7 ya\u015F\u0131nda \xF6lm\xFC\u015Ft\xFCr?"
+    answers:
+    - 52
+    - 54
+    - 56
+    - 58
+    correctAnswer: 2
+  - question: "League of Legends evreninde Nasus hangi b\xF6lgeden gelmektedir?"
+    answers:
+    - Shurima
+    - Demacia
+    - Noxus
+    - Ionia
+    correctAnswer: 0
+  - question: "Fransa'dan trene binip deniz alt\u0131ndaki Man\u015F T\xFCneli'nden
+      ge\xE7en biri hangi \xFClkeye ula\u015F\u0131r?"
+    answers:
+    - "Birle\u015Fik Krall\u0131k"
+    - Almanya
+    - "\u0130zlanda"
+    - Portekiz
+    correctAnswer: 0
+  - question: "Hangisi Afrika'da de\u011Fildir?"
+    answers:
+    - "Amazon ya\u011Fmur ormanlar\u0131"
+    - " Serengeti Milli Park\u0131"
+    - Maasai Mara
+    - "Kalahari \xC7\xF6l\xFC"
+    correctAnswer: 0
+  - question: "Hangi \xFCnl\xFC masal\u0131n en bilinen versiyonunun k\xF6t\xFC karakteri
+      bir devdir?"
+    answers:
+    - Hansel ve Gretel
+    - "Jack ve Fasulye S\u0131r\u0131\u011F\u0131"
+    - "Bremen M\u0131z\u0131kac\u0131lar\u0131"
+    - "Kibrit\xE7i K\u0131z"
+    correctAnswer: 1
+  - question: "Tan\u0131m\u0131 \"mora \xE7alan k\u0131rm\u0131z\u0131\" olan renk
+      hangisidir?"
+    answers:
+    - Galibarda
+    - Ekru
+    - "F\xFCme"
+    - Bej
+    correctAnswer: 0
+  - question: "Hangi iki il\xE7e ayn\u0131 co\u011Frafi b\xF6lgededir?"
+    answers:
+    - ' Tirebolu ve Gelibolu'
+    - "Gelibolu ve \u0130nebolu"
+    - "\u0130nebolu ve Safranbolu  "
+    - Safranbolu ve Hayrabolu
+    correctAnswer: 2
+  - question: "Hangisinin \"katalitik\" olarak adland\u0131r\u0131lan bir t\xFCr\xFC
+      vard\u0131r?"
+    answers:
+    - Soba
+    - Oklava
+    - Sini
+    - "Ma\u015Frapa"
+    correctAnswer: 0
+  - question: "Paslanmaz \xE7elik ba\u015Fl\u0131ca hangi \xFC\xE7 elementin kar\u0131\u015F\u0131m\u0131yla
+      olu\u015Fan bir ala\u015F\u0131md\u0131r?"
+    answers:
+    - "Demir, \xE7inko ve kalay"
+    - Demir, karbon ve krom
+    - Demir, oksijen ve kobalt
+    - Demir, argon ve ksenon
+    correctAnswer: 1
+  - question: "Raif Efendi'nin Almanya'da bir resim sergisinde tan\u0131\u015Ft\u0131\u011F\u0131
+      Maria Puder'le olan a\u015Fk hikayesi anlat\u0131l\u0131yorsa hangi roman\u0131
+      okuyorsunuzdur?"
+    answers:
+    - "Saatleri Ayarlama Enstit\xFCs\xFC"
+    - Tutunamayanlar
+    - "K\xFCrk Mantolu Madonna"
+    - "Sahnenin D\u0131\u015F\u0131ndakiler"
+    correctAnswer: 2
+  - question: "Hangisi bir deyim de\u011Fildir?"
+    answers:
+    - " Bir a\u015Fa\u011F\u0131 bir yukar\u0131"
+    - "\u0130ki a\u015Fa\u011F\u0131 bir yukar\u0131"
+    - "\xDC\xE7 a\u015Fa\u011F\u0131 be\u015F yukar\u0131"
+    - "Be\u015F a\u015Fa\u011F\u0131 be\u015F yukar\u0131"
+    correctAnswer: 1
+  - question: "Hangisi T\xFCrkiye'de bulunan antik kentlerden biri de\u011Fildir?"
+    answers:
+    - Galapagos
+    - Aspendos
+    - Sagalassos
+    - Termessos
+    correctAnswer: 0
+  - question: "1980'li ve 1990'l\u0131 y\u0131llarda bir \xE7ok kez Grand Slam kazanan
+      ve tek erkeklerde en gen\xE7 Wimbledon \u015Fampiyonu olan tenis\xE7i hangisidir?"
+    answers:
+    - Mertesacker
+    - "Davor \u0160uker"
+    - Boris Becker
+    - Hakan Peker
+    correctAnswer: 2
+  - question: "Hangisi, resmi ad\u0131 1980'den sonra de\u011Fi\u015Fen illerden
+      biri de\u011Fildir?"
+    answers:
+    - Gaziantep
+    - "\u015Eanl\u0131urfa"
+    - Afyonkarahisar
+    - Mersin
+    correctAnswer: 0
+  - question: "2020'de \u0130ngiltere'de yap\u0131lan bir ara\u015Ft\u0131rmaya g\xF6re,
+      do\u011Fum g\xFCnlerini hangiayda kutlayan ki\u015Filere di\u011Fer aylarda
+      kutlayanlara g\xF6re daha az hediye al\u0131nmaktad\u0131r?"
+    answers:
+    - Ocak
+    - Mart
+    - Haziran
+    - Temmuz
+    correctAnswer: 0
+  - question: " Aspirinin ilk kez \xE7\u0131k\u0131\u015F y\u0131l\u0131 nedir?"
+    answers:
+    - 1799
+    - 1899
+    - 1889
+    - 1999
+    correctAnswer: 1
+  - question: " \u0130nterentin babas\u0131 olarak bilinen, sa\u011F\u0131r olan
+      kar\u0131s\u0131 i\xE7in interneti icat eden, ki\u015Fi kimdir?"
+    answers:
+    - Vinton Cerf
+    - Alexander Graham Bell
+    - Philo Taylor Farnsworth
+    - ' George Devol'
+    correctAnswer: 0
+  - question: "2012 FIFA Puskas y\u0131l\u0131n gol\xFC yar\u0131\u015Fmas\u0131n\u0131
+      kazanan futbolcu kimdir?"
+    answers:
+    - Cristiano Ronaldo
+    - "Hamit Alt\u0131ntop"
+    - ' Paolo Maldini'
+    - Miroslav Stoch
+    correctAnswer: 3
+  - question: "7 kez D\xFCnya \u015Fampiyonu olmu\u015F d\xFCnyaca \xFCnl\xFC Formula
+      1 pilotunun ad\u0131 nedir?"
+    answers:
+    - Gilles Villeneuve
+    - Max Verstappen
+    - Sebastian Vettel
+    - Michael Schumacher
+    correctAnswer: 3
+  - question: "1994 y\u0131l\u0131nda yay\u0131mlanm\u0131\u015F, Tom Hanks\u2019in
+      ba\u015Frol\xFCnde oynad\u0131\u011F\u0131 d\xFC\u015F\xFCk iq sahibi birisinin
+      ya\u015Fad\u0131klar\u0131n\u0131 anlatan dram filminin ismi nedir?"
+    answers:
+    - " Sevginin Ba\u011Flad\u0131klar\u0131"
+    - " Ye\u015Fil Yol"
+    - Forrest Gump
+    - Yeni Hayat
+    correctAnswer: 2

@@ -1,0 +1,245 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c33bb79291182044ba28e412eeb88952, type: 3}
+  m_Name: tier3
+  m_EditorClassIdentifier: 
+  questions:
+  - question: "Hangisi s\u0131ras\u0131nda Atat\xFCrk 40'l\u0131 ya\u015Flar\u0131n\u0131n
+      ba\u015F\u0131ndayd\u0131?"
+    answers:
+    - "Trablusgarp Sava\u015F\u0131"
+    - "I. Balkan Sava\u015F\u0131"
+    - "Cumhuriyetin ilan\u0131"
+    - "Hatay'\u0131n T\xFCrkiye'ye kat\u0131lmas\u0131"
+    correctAnswer: 2
+  - question: "Bir veya iki \xE7alg\u0131 i\xE7in yaz\u0131lm\u0131\u015F, \xFC\xE7
+      veya d\xF6rt b\xF6l\xFCmden olu\u015Fan m\xFCzik eserine verilen be\u015F harfli
+      ad hangisidir?"
+    answers:
+    - Sonat
+    - Porte
+    - Suare
+    - "G\xFCfte"
+    correctAnswer: 0
+  - question: "Hangisi, siyaha yak\u0131n koyu ye\u015Fil renge verilen bir add\u0131r?"
+    answers:
+    - Dore
+    - "Neft\xEE"
+    - "Fu\u015Fya"
+    - Ekru
+    correctAnswer: 1
+  - question: "Hangisi yaz\u0131m yanl\u0131\u015F\u0131 olmayan, anlaml\u0131 bir
+      c\xFCmle de\u011Fildir?"
+    answers:
+    - "O da odada vard\u0131"
+    - "Odada oda vard\u0131"
+    - "Odadada o vard\u0131"
+    - " Odada o da vard\u0131"
+    correctAnswer: 2
+  - question: Marvel Evreninde Thanos'un memleketi neresidir?
+    answers:
+    - Nova
+    - Misuri
+    - Titan
+    - Asgard
+    correctAnswer: 2
+  - question: "Hangi Ye\u015Fil\xE7am filminde M\xFCjde Ar ''M\xFCjde'', \u015Eener
+      \u015Een ise ''\u015Eener'' ad\u0131nda bir karakteri canland\u0131rm\u0131\u015Ft\u0131r?"
+    answers:
+    - Milyarder
+    - " A\u015F\u0131k oldum"
+    - Arabesk
+    - "\u015Eekerpare"
+    correctAnswer: 2
+  - question: "A\u015Fa\u011F\u0131daki karakterlerden hangisi Galaksinin Koruyucular\u0131
+      film serisinde yer almaz?"
+    answers:
+    - Groot
+    - Starlord
+    - Gamora
+    - Renata
+    correctAnswer: 3
+  - question: "N\xFCfus yo\u011Funlu\u011Fu en fazla olan \xFClke hangisidir?"
+    answers:
+    - Singapur
+    - Monako
+    - "Banglade\u015F"
+    - "\xC7in"
+    correctAnswer: 1
+  - question: "Bakugan animesinde Marucho Marukura'n\u0131n bakunan\u0131 a\u015Fa\u011F\u0131dakilerden
+      hangisidir?"
+    answers:
+    - Drago
+    - Preyas
+    - Skyress
+    - Gorem
+    correctAnswer: 1
+  - question: "Ben 10 \xE7izgi Filminde Ben hangi uzayl\u0131y\u0131 kontrol edememektedir?"
+    answers:
+    - Geri Besleme
+    - "G\xF6lge Hayalet"
+    - Alien X
+    - "Ate\u015F Topu"
+    correctAnswer: 2
+  - question: "Game Of Thrones dizisi toplam ka\xE7 b\xF6l\xFCmd\xFCr?"
+    answers:
+    - 63
+    - 73
+    - 83
+    - 93
+    correctAnswer: 1
+  - question: "Breaking Bad dizisindeki en orosbu \xE7ocu karakter kimdir?"
+    answers:
+    - Jessie Pinkman
+    - Skyler White
+    - Gus Fring
+    - Saul Goodman
+    correctAnswer: 1
+  - question: "Frans\u0131zcadan dilimize ge\xE7en \u201Cespiri\u201D kelimesinin
+      k\xF6keninin anlam\u0131 nedir?"
+    answers:
+    - Zeka
+    - Ruh
+    - "Ate\u015F"
+    - "K\u0131vr\u0131m"
+    correctAnswer: 1
+  - question: "\"\u0130ki dirhem bir \xE7ekirdek\" ifadesi kimler i\xE7in kullan\u0131l\u0131r?"
+    answers:
+    - "G\xFCzel ve \xF6zenli giyinenler"
+    - 'Az ve seyrek yiyenler '
+    - 'Boylu ve kilolu olanlar '
+    - "G\xFC\xE7l\xFC ve kasl\u0131 olanlar"
+    correctAnswer: 0
+  - question: "Mitolojiye g\xF6re hangisi bir Yunan tanr\u0131s\u0131 de\u011Fildir?"
+    answers:
+    - Zeus
+    - Posedion
+    - Baldur
+    - Ares
+    correctAnswer: 2
+  - question: "Bakugan \xE7igi filminde Hydranioid adl\u0131 bakugan\u0131n sahibi
+      kimdir?"
+    answers:
+    - Masquerade
+    - Shun
+    - Dan
+    - China Riot
+    correctAnswer: 0
+  - question: "Bursa'n\u0131n plaka kodu ka\xE7t\u0131r?"
+    answers:
+    - 14
+    - 16
+    - 18
+    - 20
+    correctAnswer: 1
+  - question: "Regular show dizisinde a\u015Fa\u011F\u0131daki karakterlerden hangisi
+      \xF6l\xFCms\xFCzd\xFCr?"
+    answers:
+    - Pops
+    - Benson
+    - Skips
+    - Margeret
+    correctAnswer: 2
+  - question: "Jonathan Swift'in yazd\u0131\u011F\u0131, deniza\u015F\u0131r\u0131
+      seferler yapan gemilerde yolculuk yapan bir ba\u015Fkarakterin maceralar\u0131n\u0131
+      anlatan roman hangisidir?"
+    answers:
+    - " Denizler Alt\u0131nda Yirmi Bin Fersah"
+    - Gulliver'in Gezileri
+    - "Seksen G\xFCnde Devrialem"
+    - "Huckleberry Finn'in Maceralar\u0131"
+    correctAnswer: 1
+  - question: "\u015Eubat 2021'de Pasifik Okyanusu'ndaki bir kargo gemisinden denize
+      d\xFC\u015Fen bir adam hangisine 14 saatten fazla tutunarak hayatta kalm\u0131\u015Ft\u0131r?"
+    answers:
+    - "Su y\u0131lan\u0131na"
+    - " Bal\u0131k\xE7\u0131 \u015Famand\u0131ras\u0131na"
+    - Yunusa
+    - "Deniz kaplumba\u011Fas\u0131na"
+    correctAnswer: 1
+  - question: "League of Legends evreninde hangi karakter hikayeye g\xF6re Yasuo'nun
+      hocas\u0131n\u0131 \xF6ld\xFCrm\xFC\u015Ft\xFCr?"
+    answers:
+    - Darius
+    - Singed
+    - Riven
+    - Fiora
+    correctAnswer: 2
+  - question: "Romen Rakam\u0131nda Hangi Say\u0131 Yoktur?"
+    answers:
+    - 0
+    - 50
+    - 100
+    - 150
+    correctAnswer: 0
+  - question: "Hangi \xDClkenin \u0130ki Tane Ba\u015Fkenti Vard\u0131r?"
+    answers:
+    - "G\xFCney Afrika"
+    - 'Senegal '
+    - El Salvador
+    - Venezuela
+    correctAnswer: 0
+  - question: "Cevdet Bey ve O\u011Fullar\u0131 Eseri Kime Aittir?"
+    answers:
+    - Orhan Pamuk
+    - "Yahya Kemal Bayatl\u0131"
+    - "Atilla \u0130lhan"
+    - "Samipa\u015Fazade Sezai"
+    correctAnswer: 0
+  - question: "CevdetBir Sebepten Dolay\u0131 Tek Kula\u011F\u0131na K\xFCpe Takan
+      Osmanl\u0131 Padi\u015Fah\u0131 Kimdir?Bey ve O\u011Fullar\u0131 Eseri Kime
+      Aittir?"
+    answers:
+    - "Kanuni Sultan S\xFCleyman "
+    - 'Yavuz Sultan Selim '
+    - Orhan Bey
+    - Fatih Sultan Selim
+    correctAnswer: 1
+  - question: Aspirinin Hammaddesi Nedir?
+    answers:
+    - "S\xF6\u011F\xFCt "
+    - "K\xF6knar "
+    - 'Kavak '
+    - "Me\u015Fe "
+    correctAnswer: 0
+  - question: " Periyodik cetveli kim bulmu\u015Ftur?"
+    answers:
+    - Henry Moseley
+    - John Dalton
+    - Gregor Mendel
+    - Dmitriy Mendeleyev
+    correctAnswer: 3
+  - question: " Dinamiti ke\u015Ffeden ve kendi soyad\u0131n\u0131 verdi\u011Fi bir
+      dernek ile her y\u0131l insanl\u0131\u011F\u0131n geli\u015Fimine katk\u0131
+      sa\u011Flam\u0131\u015F kimselere \xF6d\xFCl da\u011F\u0131t\u0131lmas\u0131n\u0131
+      sa\u011Flayan \xFCnl\xFC kimayager kimdir?"
+    answers:
+    - Marie Curie
+    - Sigmund Freud
+    - Aziz Sancar
+    - Albert Nobel
+    correctAnswer: 3
+  - question: "T\xFCrkiye\u2019de kad\u0131nlar hangi y\u0131llarda ilk kez se\xE7me
+      se\xE7ilme hakk\u0131n\u0131 kazanm\u0131\u015Flard\u0131r?"
+    answers:
+    - "1930 se\xE7me 1934 se\xE7ilme"
+    - "1931 se\xE7me 1934 se\xE7ilme"
+    - "1938 se\xE7me 1939 se\xE7ilme"
+    - "1929 se\xE7me 1934 se\xE7ilme"
+    correctAnswer: 0
+  - question: " D\xFCnya tarihinde en fazla gol atan futbolcu kimdir?"
+    answers:
+    - "Pel\xE9"
+    - Ronaldo
+    - Messi
+    - Cristiano Ronaldo
+    correctAnswer: 0

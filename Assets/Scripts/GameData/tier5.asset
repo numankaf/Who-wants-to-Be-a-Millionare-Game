@@ -1,0 +1,199 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c33bb79291182044ba28e412eeb88952, type: 3}
+  m_Name: tier5
+  m_EditorClassIdentifier: 
+  questions:
+  - question: "NBA'de \u015Fimdiye kadar forma giyen en uzun basketbolcu ile en k\u0131sa
+      basketbolcu aras\u0131ndaki boy fark\u0131 ka\xE7 santimetredir?"
+    answers:
+    - 41
+    - 51
+    - 61
+    - 71
+    correctAnswer: 3
+  - question: "2008 Pekin Olimpiyatlar\u0131'nda 9,69'luk derecesiyle 100 metre finalinde
+      d\xFCnya rekoru k\u0131ran Usain Bolt bu rekoru hangi durumdayken k\u0131rm\u0131\u015Ft\u0131r?"
+    answers:
+    - "Sa\u011F ayakkab\u0131s\u0131n\u0131n i\xE7inde ta\u015F varken"
+    - " Sol ayak ba\u015Fparmak t\u0131rna\u011F\u0131 bat\u0131yorken"
+    - " Sa\u011F ayakkab\u0131s\u0131n\u0131n alt\u0131na sak\u0131z yap\u0131\u015Fm\u0131\u015Fken"
+    - "Sol ayakkab\u0131s\u0131n\u0131n ba\u011F\u0131 \xE7\xF6z\xFClm\xFC\u015Fken"
+    correctAnswer: 3
+  - question: "G\u0131rnata, Belensiye ve \u0130\u015Fb\u0131liye g\xFCn\xFCm\xFCzde
+      hangi \xFClkenin s\u0131n\u0131rlar\u0131 i\xE7inde yer alan \u015Fehirlerin
+      eski adlar\u0131d\u0131r?"
+    answers:
+    - "T\xFCrkiye"
+    - Bulgaristan
+    - "\u0130spanya"
+    - Yunanistan
+    correctAnswer: 2
+  - question: "Hangi edebiyat\xE7\u0131 TBMM'de milletvekilli\u011Fi yapmam\u0131\u015Ft\u0131r?"
+    answers:
+    - "Yahya Kemal Beyatl\u0131"
+    - "Sait Faik Abas\u0131yan\u0131k"
+    - " Halide Edip Ad\u0131var"
+    - ' Mehmet Akif Ersoy'
+    correctAnswer: 1
+  - question: "1967\u2019de y\xFCzerken gizemli bir \u015Fekilde kaybolan ve kendisinden
+      bir daha haber al\u0131namayan Harold Holt hangi \xFClkenin ba\u015Fkan\u0131yd\u0131?"
+    answers:
+    - Kanada
+    - Avustralya
+    - Yeni Zelanda
+    - " \u0130ngiltere"
+    correctAnswer: 1
+  - question: "\u0130bn Haldun'un bir eserinin ad\u0131 da olan \"mukaddime\" kelimesi
+      ne anlama gelir?"
+    answers:
+    - " \xC7eviri"
+    - " \xD6n s\xF6z"
+    - "Kaynak\xE7a"
+    - ' Dipnot'
+    correctAnswer: 1
+  - question: "Nobel \xF6d\xFCll\xFC yazar Tagore'un, hikayesi 19. y\xFCzy\u0131lda
+      Birle\u015Fik Krall\u0131k y\xF6netimindeki Hindistan'\u0131n Kalk\xFCta \u015Fehrinde
+      ge\xE7en ve ba\u015Fkarakteriyle ayn\u0131 ad\u0131 ta\u015F\u0131yan roman\u0131n\u0131n
+      ad\u0131 nedir?"
+    answers:
+    - Arog
+    - Gora
+    - Agora
+    - Tagore
+    correctAnswer: 1
+  - question: "1959'dan beri d\xFCzenlenen, lise \xF6\u011Frencilerinin yar\u0131\u015Ft\u0131\u011F\u0131
+      Uluslararas\u0131 Matematik Olimpiyat\u0131'nda 1991 ve 2010'da kopya \xE7ekti\u011Fi
+      \u015F\xFCphesiyle diskalifiye edilen \xFClke hangisidir?"
+    answers:
+    - Kuzey Kore
+    - ' Hindistan'
+    - Venezuela
+    - Pakistan
+    correctAnswer: 0
+  - question: "Guinness D\xFCnya Rekorlar\u0131na g\xF6re Hintli Karate Nataraj ellerini
+      kullanmadan a\u011Fz\u0131nda ka\xE7 tane pipet tutabilmi\u015Ftir?"
+    answers:
+    - 50
+    - 250
+    - 450
+    - 650
+    correctAnswer: 3
+  - question: "Cumhuriyet ilan edildikten sonra hangi \xFClkenin temsilcisi T\xFCrkiye'ye
+      di\u011Ferlerinden daha \xF6nce diplomatik ziyarette bulunmu\u015F ve Mustafa
+      Kemal taraf\u0131ndan kabul edilmi\u015Ftir?"
+    answers:
+    - Afganistan
+    - Fransa
+    - ABD
+    - "Birle\u015Fik Krall\u0131k"
+    correctAnswer: 1
+  - question: "Hangisi TDK s\xF6zl\xFCklerinde tan\u0131m\u0131 olan bir kelimedir?"
+    answers:
+    - Bilbord
+    - Blucin
+    - "\u015Eovrum"
+    - Fidbek
+    correctAnswer: 1
+  - question: "Hangi \xE7ift 2017'de do\u011Fan k\u0131zlar\u0131n\u0131n ad\u0131n\u0131
+      Mevlana Celaleddin-i Rumi'den esinlenerek Rumi koymu\u015Ftur?"
+    answers:
+    - ' Beyonce ve Jay-Z'
+    - Victoria ve David Beckham
+    - Meghan Markle ve Prens Harry
+    - Kim Kardashian ve Kanye West
+    correctAnswer: 0
+  - question: "Kendi ad\u0131n\u0131 ta\u015F\u0131yan \xFCnl\xFC video oyun serisinin
+      ba\u015Fkarakteri olan Mario'nun yer ald\u0131\u011F\u0131 ilk video oyunu
+      \"Donkey Kong\"daki mesle\u011Fi nedir?"
+    answers:
+    - "Hal\u0131c\u0131l\u0131k"
+    - Marangozluk
+    - "Tesisat\xE7\u0131l\u0131k"
+    - "Pizzac\u0131l\u0131k"
+    correctAnswer: 1
+  - question: "Hangi ikisi ayn\u0131 dalda ba\u015Far\u0131lar kazanm\u0131\u015F
+      \xFCnl\xFC sporculard\u0131r?"
+    answers:
+    - ' Andy Roddick ve Andy Murray'
+    - Rafael Nadal ve Raphael Varane
+    - Michael Jordan ve Michael Phelps
+    - Kevin Durant ve Kevin De Bruyne
+    correctAnswer: 0
+  - question: "1916'da ABD'nin Tennessee eyaletindeki bir kasabada hangi hayvan cinayetle
+      su\xE7lanm\u0131\u015F ve as\u0131larak idam edilmi\u015Ftir?"
+    answers:
+    - "Ay\u0131"
+    - Bizon
+    - Fil
+    - Puma
+    correctAnswer: 2
+  - question: "Hindistan'\u0131n Piplantri k\xF6y\xFCnde ya\u015Fayanlar, hangisinin
+      her tekrarlan\u0131\u015F\u0131nda 111 a\u011Fa\xE7 dikerek bu zamana kadar
+      toplamda \xE7eyrek milyondan fazla a\u011Fa\xE7 dikmi\u015Ftir?"
+    answers:
+    - " \u0130nek \xF6l\xFCm\xFC"
+    - "Kar ya\u011Fmas\u0131"
+    - "K\u0131z bebek do\u011Fumu"
+    - "K\xF6y\xFCn futbol tak\u0131m\u0131n\u0131n gol atmas\u0131"
+    correctAnswer: 2
+  - question: "1970'li y\u0131llarda yay\u0131mlanan ve 2016'da yeni bir versiyonu
+      \xE7ekilen ''K\xF6kler'' adl\u0131 dizisinin ba\u015Fkarakteri hangisidir?"
+    answers:
+    - ' Nyota Uhura'
+    - "K\xF6le Isaura"
+    - Kunta Kinter
+    - ' Hattori Hanzo'
+    correctAnswer: 2
+  - question: "Yolculu\u011Funu neyle yapt\u0131\u011F\u0131n\u0131 sordu\u011Funuz
+      ki\u015Fi hangi cevab\u0131 verirse gemi yolculu\u011Fu yapt\u0131\u011F\u0131n\u0131
+      s\xF6ylemi\u015F olur?"
+    answers:
+    - Sefine
+    - " \u015Eimendifer"
+    - Velespit
+    - Tayyare
+    correctAnswer: 0
+  - question: "\u015Eu ana kadar ke\u015Ffedilmi\u015F evrendeki en b\xFCy\xFCk y\u0131ld\u0131z\u0131n
+      ismi nedir?"
+    answers:
+    - UY Scuti
+    - Bellatrix
+    - Gliese 179
+    - WOH G64
+    correctAnswer: 0
+  - question: " D\xFCnyada ilk kez 5 farkl\u0131 k\u0131tan\u0131n \xFClkelerinin
+      sava\u015Ft\u0131\u011F\u0131 sava\u015F\u0131n ismi nedir?"
+    answers:
+    - "Yedi G\xFCn Sava\u015F\u0131"
+    - "Birinci D\xFCnya Sava\u015F\u0131"
+    - "Otuz Y\u0131l Sava\u015F\u0131"
+    - "Osmanl\u0131-Rus-Avusturya Sava\u015F\u0131"
+    correctAnswer: 0
+  - question: "Kort tenisisin en prestijli turnuvas\u0131 olan Grand Slam\u2019in
+      2019 Fransa a\xE7\u0131k aya\u011F\u0131n\u0131 kazanan kad\u0131n tesis\xE7i
+      kimdir?"
+    answers:
+    - "Mariya \u015Earapova"
+    - Ashleigh Barty
+    - ' Serena Williams'
+    - Caroline Wozniacki
+    correctAnswer: 1
+  - question: "NBA de en fazla say\u0131 at\u0131lan, tam\u0131 tam\u0131na 317 say\u0131
+      kaydedilmi\u015F olan, ma\xE7 hangi iki basketbol tak\u0131m\u0131 aras\u0131nda
+      oynanm\u0131\u015Ft\u0131r?"
+    answers:
+    - "Boston Celtics \u2013 Miami Heat"
+    - "Los Angeles Lakers \u2013 Golden State Warriors"
+    - "Houston Rockets \u2013 Washington Wizards"
+    - "Denver Nuggets \u2013 Utah Jazz"
+    correctAnswer: 2
